@@ -1,1 +1,0 @@
-# Pricing Card in Tailwindcss
